@@ -10,7 +10,7 @@ namespace MegaManager
     {
         private void transar()
         {
-            //lo que pasa es que la vaca esta borracha
+            //aca programo como quiero
         }
     }
 }
